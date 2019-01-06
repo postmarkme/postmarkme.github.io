@@ -1,0 +1,13 @@
+{
+    "username": "postmarkme",
+    "repo": "test1",
+    "password": "postmarkme.github.io",
+    "committer": {
+        "name": "postmarkme",
+        "email": "postmark@uconn.edu"
+    },
+    "message": "opmlToGitHub",
+    "userAgent": "opmlToGitHub demo app",
+    "titleHeaderMarkdown": "# ",
+    "topLevelHeaderMarkdown": "### "
+	}
